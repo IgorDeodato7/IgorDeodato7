@@ -34,7 +34,7 @@
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPcBjdJwGJWhtjvxfCzDpnxpGQjPGBBMtpPKDRJPLttfMSRhlTpWdVgMVGrBsWBQLLVkhv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/igor-deodato-gregorio-77737822b" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-deodato-gregorio-77737822b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
