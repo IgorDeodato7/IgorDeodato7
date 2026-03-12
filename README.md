@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Seja bem vindo ao meu repositório!<br><br>💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.<br>🎯 Front-end: HTML, CSS, JavaScript<br>⚙️ Back-end: Python, PHP, Java<br>🛠 Banco de Dados: MySQL<br>🔐 Atualmente estudando:  Curso Técnico de Desenvolvimento de Sistemas<br>🚀 Sempre buscando desafios e oportunidades para aprender e crescer!</h2>
+<h2 align="left">👋 Olá! Seja bem vindo ao meu repositório!<br><br>💻 Técnico em Desenvolvimento de Sistemas apaixonado por tecnologia e inovação.<br>🎯 Front-end: HTML, CSS, JavaScript<br>⚙️ Back-end: Python, PHP, Java<br>🛠 Banco de Dados: MySQL<br>🔐 Atualmente estudando:  Curso Técnico de Desenvolvimento de Sistemas<br>🚀 Sempre buscando desafios e oportunidades para aprender e crescer!</h2>
 
 ###
 
